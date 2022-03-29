@@ -1,1 +1,2 @@
-console.log("im hungry")
+let hungry = "yes i am of course"
+console.log(hungry)
